@@ -11,7 +11,7 @@ NONTEÚDO (45 módulos)
 
 PROJETOS
 
-1.Análise exploratória de dados de logística em Python
+1. Análise exploratória de dados de logística em Python
 2. Anãlise exploratória de dados de crédito em SQL
 3. Painel de dados da Covid-19
-4.Pipeline de dados do Telegram
+4. Pipeline de dados do Telegram
