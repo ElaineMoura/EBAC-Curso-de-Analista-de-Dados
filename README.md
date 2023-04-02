@@ -1,5 +1,5 @@
 # EBAC-Curso-de-Analista-de-Dados
-NONTEÚDO (45 módulos)
+NONTEÚDO (44 módulos)
 
 1. Python
 2. Análise de Dados
